@@ -22,3 +22,4 @@ Projeyi derleyip çalıştırdıktan sonra:
 1. Harita boyutlarını girin (Örn: 50x15).
 2. Yön tuşlarıyla hareket edin.
 3. **ENTER** tuşuna basarak seçili algoritmanın labirenti çözmesini izleyin!
+<img width="1476" height="706" alt="image" src="https://github.com/user-attachments/assets/9a28db5e-231d-4d94-80a0-41866d62db9a" />
